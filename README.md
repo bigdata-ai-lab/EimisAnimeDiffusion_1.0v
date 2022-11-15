@@ -8,6 +8,5 @@ license: creativeml-openrail-m
 inference: false
 
 ---
-license: creativeml-openrail-m
----
-Hello
+
+# Art Model
