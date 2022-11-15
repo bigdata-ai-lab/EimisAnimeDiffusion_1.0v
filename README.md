@@ -9,4 +9,5 @@ inference: false
 
 ---
 
-# Art Model
+# Diffusion model
+This model is trained with high quality and detailed anime images through fine-tuning.
