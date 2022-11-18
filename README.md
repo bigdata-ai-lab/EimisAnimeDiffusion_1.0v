@@ -13,7 +13,14 @@ inference: false
 This model is trained with high quality and detailed anime images through fine-tuning.
 
 # Sample generations
+This model works well on anime and landscape generations.
+Anime:
 There are some sample generations:
+```
+Positive:(1girl), cute, walking in the park, (night), full moon, north star, blue shirt, red skirt, detailed shirt, jewelry, autumn, dark blue hair, shirt hair, (magic:1.5), beautiful blue eyes
+Negative: lowres, bad anatomy, ((bad hands)), text, error, ((missing fingers)), cropped, jpeg artifacts, worst quality, low quality, signature, watermark, blurry, deformed, extra ears, deformed, disfigured, mutation, censored, ((multiple_girls))
+Steps: 35, Sampler: Euler a, CFG scale: 9, Seed: 296195494, Size: 768x960
+```
 <img src=https://imgur.com/gudKxQe.png width=75% height=75%>
 
 
