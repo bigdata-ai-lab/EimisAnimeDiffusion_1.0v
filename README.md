@@ -24,6 +24,10 @@ Steps: 35, Sampler: Euler a, CFG scale: 9, Seed: 296195494, Size: 768x960
 <img src=https://imgur.com/gudKxQe.png width=75% height=75%>
 
 
+## Disclaimer
+Some prompts might not work perfectly (mainly colors, backgrounds), so add some more prompts for it to work, or try these -->().
+Usually they help.
+
 ## License
 
 This model is open access and available to all, with a CreativeML OpenRAIL-M license further specifying rights and usage.
