@@ -12,6 +12,11 @@ inference: false
 # Diffusion model
 This model is trained with high quality and detailed anime images through fine-tuning.
 
+# Sample generations
+There are some sample generations:
+<img src=https://imgur.com/gudKxQe.png width=75% height=75%>
+
+
 ## License
 
 This model is open access and available to all, with a CreativeML OpenRAIL-M license further specifying rights and usage.
