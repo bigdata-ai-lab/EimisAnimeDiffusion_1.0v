@@ -25,7 +25,7 @@ Steps: 35, Sampler: Euler a, CFG scale: 9, Seed: 296195494, Size: 768x960
 
 
 ## Disclaimer
-Some prompts might not work perfectly (mainly colors, backgrounds), so add some more prompts for it to work, or try these -->().
+Some prompts might not work perfectly (mainly colors), so add some more prompts for it to work, or try these -->().
 Usually they help.
 
 ## License
