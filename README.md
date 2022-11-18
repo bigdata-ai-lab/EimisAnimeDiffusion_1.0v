@@ -20,9 +20,10 @@ There are some sample generations:<br>
 ```
 Positive:a girl, Phoenix girl, fluffy hair, war, a hell on earth, Beautiful and detailed explosion, Cold machine, Fire in eyes, burning, Metal texture, Exquisite cloth, Metal carving, volume, best quality, normal hands, Metal details, Metal scratch, Metal defects, masterpiece, best quality, best quality, illustration, highres, masterpiece, contour deepening, illustration,(beautiful detailed girl),beautiful detailed glow
 Negative:lowres, bad anatomy, ((bad hands)), text, error, ((missing fingers)), cropped, jpeg artifacts, worst quality, low quality, signature, watermark, blurry, deformed, extra ears, deformed, disfigured, mutation, censored, ((multiple_girls))
-Steps: 20, Sampler: DPM++ 2S a, CFG scale: 8, Seed: 919456124, Size: 704x896
+Steps: 20, Sampler: DPM++ 2S a, CFG scale: 8, Seed: 4186044705/4186044707, Size: 704x896
 ```
-<img src=https://imgur.com/EIEPogJ.png width=75% height=75%>
+<img src=https://imgur.com/2U295w3.png width=75% height=75%>
+<img src=https://imgur.com/2jtF376.png width=75% height=75%>
 
 
 ```
