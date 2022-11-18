@@ -10,12 +10,22 @@ inference: false
 ---
 
 # Diffusion model
-This model is trained with high quality and detailed anime images through fine-tuning.
+This model is trained with high quality and detailed anime images.
 
 # Sample generations
 This model works well on anime and landscape generations.<br>
 Anime:<br>
 There are some sample generations:<br>
+Steps: 20, Sampler: DPM++ 2S a, CFG scale: 8, Seed: 919456124, Size: 704x896
+```
+<img src=https://imgur.com/EIEPogJ.png width=75% height=75%>
+
+
+Positive:a girl, Phoenix girl, fluffy hair, war, a hell on earth, Beautiful and detailed explosion, Cold machine, Fire in eyes, burning, Metal texture, Exquisite cloth, Metal carving, volume, best quality, normal hands, Metal details, Metal scratch, Metal defects, masterpiece, best quality, best quality, illustration, highres, masterpiece, contour deepening, illustration,(beautiful detailed girl),beautiful detailed glow
+Negative:lowres, bad anatomy, ((bad hands)), text, error, ((missing fingers)), cropped, jpeg artifacts, worst quality, low quality, signature, watermark, blurry, deformed, extra ears, deformed, disfigured, mutation, censored, ((multiple_girls))
+
+```
+
 ```
 Positive:(1girl), cute, walking in the park, (night), full moon, north star, blue shirt, red skirt, detailed shirt, jewelry, autumn, dark blue hair, shirt hair, (magic:1.5), beautiful blue eyes
 Negative: lowres, bad anatomy, ((bad hands)), text, error, ((missing fingers)), cropped, jpeg artifacts, worst quality, low quality, signature, watermark, blurry, deformed, extra ears, deformed, disfigured, mutation, censored, ((multiple_girls))
