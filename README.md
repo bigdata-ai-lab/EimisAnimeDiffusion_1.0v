@@ -35,7 +35,7 @@ Want to generate some nice backgrounds? No problem:
 
 ## Disclaimer
 Some prompts might not work perfectly (mainly colors), so add some more prompts for it to work, or try these -->().
-Usually they help.
+Usually they help. Also works well with img2img.
 
 ## License
 
