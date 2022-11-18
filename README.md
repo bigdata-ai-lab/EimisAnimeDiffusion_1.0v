@@ -40,7 +40,7 @@ Steps: 20, Sampler: DPM++ 2S a Karras, CFG scale: 9, Seed: 2118767319, Size: 768
 ```
 <img src=https://imgur.com/lJL4CJL.png width=75% height=75%>
 
-Want to generate some nice backgrounds? No problem:
+Want to generate some amazing backgrounds? No problem:
 ```
 Positive: above clouds, mountains, (night), full moon, castle, huge forest, forest between mountains, beautiful, masterpiece
 Negative: lowres, bad anatomy, ((bad hands)), text, error, ((missing fingers)), cropped, jpeg artifacts, worst quality, low quality, signature, watermark, blurry, deformed, extra ears, deformed, disfigured, mutation, censored, ((multiple_girls))
