@@ -26,6 +26,11 @@ Steps: 35, Sampler: Euler a, CFG scale: 9, Seed: 296195494, Size: 768x960
 ```
 Positive:night , ((1 girl)), alone, masterpiece, 8k wallpaper, highres, absurdres, high quality background, short hair, black hair, multicolor hair, beautiful frozen village, (full bright moon), blue dress, detailed dress, jewelry dress, (magic:1.2), blue fire, blue eyes, glowing eyes, fire, ice goddess, (blue detailed beautiful crown), electricity, blue electricity, blue light particles
 Negative: lowres, bad anatomy, ((bad hands)), text, error, ((missing fingers)), cropped, jpeg artifacts, worst quality, low quality, signature, watermark, blurry, deformed, extra ears, deformed, disfigured, mutation, censored, ((multiple_girls))
+Steps: 20, Sampler: DPM++ 2S a Karras, CFG scale: 9, Seed: 2118767319, Size: 768x832
+```
+<img src=https://imgur.com/lJL4CJL.png width=75% height=75%>
+
+Want to generate some nice backgrounds? No problem:
 
 
 ## Disclaimer
