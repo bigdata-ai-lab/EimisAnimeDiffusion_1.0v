@@ -1,4 +1,5 @@
 ---
+thumbnail: https://imgur.com/6ztDBPR.png
 language:
 - en
 tags:
