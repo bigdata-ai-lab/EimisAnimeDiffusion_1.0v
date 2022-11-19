@@ -5,6 +5,8 @@ language:
 tags:
 - stable-diffusion
 - text-to-image
+- image-to-image
+- diffusers
 license: creativeml-openrail-m
 inference: true
 
